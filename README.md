@@ -1,5 +1,6 @@
 # Shamir
 Веревкин Алексей 607-01
+
 Источники:
 1) https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%91%D1%85%D1%8D%D1%82%D0%B0%D0%BF%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB
 2) https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%91%D1%85%D1%8D%D1%82%D0%B0%D0%BF%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%82%D0%BE%D0%BA%D0%BE%D0%BB_%D0%A8%D0%B0%D0%BC%D0%B8%D1%80%D0%B0
